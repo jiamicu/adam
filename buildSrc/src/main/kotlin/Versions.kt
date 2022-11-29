@@ -7,7 +7,7 @@ object Versions {
     val annotations = "23.0.0"
     val ktor = "2.0.3"
     val logging = "2.1.23"
-    val vertx = "4.3.3"
+    val vertx = "4.3.5"
     val apacheCommonsPool2 = "2.11.1"
 
     val assertk = "0.25"
